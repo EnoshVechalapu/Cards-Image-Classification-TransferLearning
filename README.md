@@ -4,7 +4,7 @@ This repository contains a transfer learning project using PyTorch. The goal is 
 
 ## Project Overview
 
-Transfer learning is a powerful technique where a pre-trained model is used as the starting point for a new task. This project demonstrates how to fine-tune a pre-trained ResNet-18 model and VGG-16 model on a custom dataset for image classification. By leveraging the knowledge from a model pre-trained on a large dataset (such as ImageNet), we can achieve high accuracy even with a smaller dataset.
+Transfer learning is a powerful technique where a pre-trained model is used as the starting point for a new task. This project demonstrates how to fine-tune a pre-trained ResNet-18 model and on a custom dataset for image classification. By leveraging the knowledge from a model pre-trained on a large dataset (such as ImageNet), we can achieve high accuracy even with a smaller dataset.
 
 
 ## Dataset
@@ -42,7 +42,7 @@ This dataset is provided by [gpiosenka](https://www.kaggle.com/gpiosenka) on Kag
 
 Describe the model and the transfer learning approach:
 
-- The pre-trained model used (e.g., ResNet-18 , VGG-16)
+- The pre-trained model used (e.g., ResNet-18)
 - The modifications made (e.g., replacing the final fully connected layer)
 
 
